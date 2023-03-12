@@ -75,3 +75,5 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 /AR_App/rel_BackUpThisFolder_ButDontShipItWithYourGame
+/AR_App_Sample.mp4
+/Resources
